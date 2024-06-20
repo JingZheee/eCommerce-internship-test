@@ -1,0 +1,58 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.swo
+*.DS_Store
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/build/
+**/out/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+android/.gradle/
+android/app/release/
+android/app/debug/
+android/app/proguard/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+!ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png
+!ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png
+!ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea/*
+
+# VSCode related
+.vscode/
+.vscode/*
+.history/
+
+# Mac related
+.DS_Store
+
